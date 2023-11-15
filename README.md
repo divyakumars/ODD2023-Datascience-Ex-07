@@ -184,7 +184,6 @@ print(selected_feature)
 ![282474045-6e378e75-7a45-47ab-b4a0-151b2ff40d8c](https://github.com/divyakumars/ODD2023-Datascience-Ex-07/assets/119393621/2571cbf9-a7cf-4d7d-b247-9833907d5ad5)
 
 
-
 ### RESULT :
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
 
