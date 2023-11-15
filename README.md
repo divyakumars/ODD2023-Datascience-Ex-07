@@ -185,39 +185,8 @@ print(selected_feature)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### RESULT :
+Thus, the various feature selection techniques have been performed on a given dataset successfully.
 
 
 
